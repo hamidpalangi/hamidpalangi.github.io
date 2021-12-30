@@ -84,7 +84,7 @@ author:
   avatar           : "hamid_palangi_2021_b2.jpg"
   bio              : "Senior Researcher"
   location         : "Seattle, WA"
-  employer         : "[Microsoft Research](https://www.microsoft.com/en-us/research/){: .btn--research}"
+  employer         : [Microsoft Research](https://www.microsoft.com/en-us/research/){: .btn--research}
   pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?user=B1lAghgAAAAJ&hl=en"
   email            : "hamidpalangi@ieee.org"
