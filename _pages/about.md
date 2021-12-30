@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[this](https://www.microsoft.com/en-us/research/people/hpalangi/){: .btn--research} is the link. 
+[this](https://www.microsoft.com/en-us/research/people/hpalangi/){: .btn--research} is the link. ??
 
 ```
 this = code + block
