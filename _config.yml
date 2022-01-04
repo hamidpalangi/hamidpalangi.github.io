@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hamid Palangi"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Hamid Palangi"
 description              : &description "personal description"
