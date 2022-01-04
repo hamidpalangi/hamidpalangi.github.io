@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Hamid Palangi"
+title: "Welcome"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-test
+test0
 
 [this](https://www.microsoft.com/en-us/research/people/hpalangi/){: .btn--research} is the link. ??
 
