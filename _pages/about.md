@@ -13,6 +13,6 @@ I am a member of [Microsoft Research](https://www.microsoft.com/en-us/research/)
 
 News
 ------
-__2022__ Testing0 
+__2022__ Testing 
 
 __2021__ [this](https://www.microsoft.com/en-us/research/people/hpalangi/){: .btn--research} is the link.
