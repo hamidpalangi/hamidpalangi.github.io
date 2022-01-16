@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My mission is to contribute to building AI systems that are robust and safe. My work in this domain involves learning strcutured neural respresenetations, combining neural and symbolic representations and stress testing large scale neural models through adversaries. I have been contributing to this direction since 2017.
+My mission is to contribute to building AI systems that are robust and safe. My work in this domain involves combining neural and symbolic representations, out of distribution generalization and stress testing large scale neural models through adversaries. I have been contributing to this direction since 2017.
 
-I have experience working on Sparse Decomposition and Compressive Sensing [2016](https://arxiv.org/abs/1508.04924){: .btn--research}, Deep Sentence Representations for Web Search Engines and Information Retrieval [2014](https://arxiv.org/abs/1502.06922){: .btn--research} which recevied IEEE Signal Processing Society Best Paper award in 2018, and Deep Learning methods for Speech Recognition [2013](https://arxiv.org/abs/1311.2987){: .btn--research}. 
+I have experience working on Sparse Decomposition and Compressive Sensing [[1]](https://arxiv.org/abs/1508.04924), Deep Sentence Representations for Web Search Engines and Information Retrieval [[2]](https://arxiv.org/abs/1502.06922) which recevied IEEE Signal Processing Society Best Paper award in 2018, and Deep Learning methods for Speech Recognition [[3]](https://arxiv.org/abs/1311.2987). 
 
 I have had the priviledge to work as a mentor at [Microsoft AI School](https://www.microsoft.com/en-us/ai/ai-school) from 2017 to 2019 and [Microsoft AI Residency Program](https://www.microsoft.com/en-us/research/academic-program/microsoft-ai-residency-program/) from 2019 to 2020.
 
@@ -19,6 +19,6 @@ I have a PhD in Electrical and Computer Engineering from the [University of Brit
 
 News
 ------
-__2022__ I am a member of [Microsoft Research](https://www.microsoft.com/en-us/research/) lab (AI) in Redmond, Washington. 
+__[2022](){: .btn--research}__ I am a member of [Microsoft Research](https://www.microsoft.com/en-us/research/) lab (AI) in Redmond, Washington. 
 
-__2021__ [this](https://www.microsoft.com/en-us/research/people/hpalangi/){: .btn--research} is the link.
+__[2021](){: .btn--research}__ [this](https://www.microsoft.com/en-us/research/people/hpalangi/){: .btn--research} is the link.
