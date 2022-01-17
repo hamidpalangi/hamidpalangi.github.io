@@ -7,20 +7,16 @@ main:
     url: /talks/    
  
   - title: "Interns"
-    url: /portfolio/
+    url: /interns/
         
   - title: "Blogs/Media"
-    url: /year-archive/
+    url: /blogs/
 
   - title: "10K"
-    url: /markdown/
+    url: /10k/
     
   - title: "Honors/Awards"
-    url: /cv/
+    url: /honors/
     
   - title: "Code/Dataset"
-    url: /cv/
-    
-  - title: "Inspiration"
-    url: /cv/
-    
+    url: /code/
