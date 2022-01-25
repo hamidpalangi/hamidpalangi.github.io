@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My mission is to contribute to building AI systems that are Robust, Safe and Data Efficient. My work in this domain involves improving out of distribution generalization of large scale deep neural networks and combining neural and symbolic representations. I have broad interest in Deep Learning, Natural Language Processing and Language Grounding (Language+Vision).
+My mission is to contribute to building AI systems that are Robust, Safe and Data Efficient. My work in this domain involves out of distribution generalization of large scale deep neural networks and combining neural and symbolic representations. I have broad interest in Deep Learning, Natural Language Processing and Language Grounding (Language+Vision).
 
 Currently I work at [Microsoft Research](https://www.microsoft.com/en-us/research/) as a Senior Researcher, serve as an advisor for [Koidra](https://www.koidra.ai/) and as Associate Editor for IEEE Signal Processing Magazine [Newsletter](https://signalprocessingsociety.org/newsletter). I have had the priviledge to be a Senior member of [IEEE](https://www.ieee.org/), to serve as part of organizing committee of [ACL 2020](https://acl2020.org/) as one of the virtual infrastructure chairs, and to work as a mentor at [Microsoft AI School](https://www.microsoft.com/en-us/ai/ai-school) from 2017 to 2019 and [Microsoft AI Residency Program](https://www.microsoft.com/en-us/research/academic-program/microsoft-ai-residency-program/) from 2019 to 2020.
 
