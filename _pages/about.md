@@ -14,7 +14,8 @@ Currently I work at [Microsoft Research](https://www.microsoft.com/en-us/researc
 
 I have a PhD in Electrical and Computer Engineering from the [University of British Columbia](https://www.ubc.ca/) advised by [Rabab Ward](https://scholar.google.ca/citations?user=dqsw1u8AAAAJ&hl=en) and [Li Deng](https://scholar.google.ca/citations?user=GQWTo4MAAAAJ&hl=en) where I worked on [Sparse Decomposition and Compressive Sensing](https://arxiv.org/abs/1508.04924) and [Deep Sentence Representations for Web Search Engines and Information Retrieval](https://arxiv.org/abs/1502.06922) which received [IEEE Signal Processing Society Best Paper Award 2018](). My MSc and BSc were in Electrical Engineering and I am still an [engineer at heart](https://en.wikipedia.org/wiki/Engineer).
 
-For general inquiries please contact me at [hamidpalangi [at] ieee [dot] org](hamidpalangi@ieee.org), for Microsoft related inquiries please contact me at [hpalangi [at] microsoft [dot] com](hpalangi@microsoft.com). For my references please refer to the [recommendations](https://www.linkedin.com/in/hamidpalangi) section of my Linkedin profile or send me an email.
+For general inquiries please contact me at [hamidpalangi [at] ieee [dot] org](hamidpalangi@ieee.org), for Microsoft related inquiries please contact me at [hpalangi [at] microsoft [dot] com](hpalangi@microsoft.com).  
+For my references please refer to the [recommendations](https://www.linkedin.com/in/hamidpalangi) section of my Linkedin profile or send me an email.
 
 
 News
