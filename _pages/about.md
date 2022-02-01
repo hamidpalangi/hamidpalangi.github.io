@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-My mission is to contribute to building AI systems that are Robust, Safe and Data Efficient. My work in this domain involves Combining Neural and Symbolic Representations and Out of Distribution Generalization of Large Scale Deep Neural Networks. I have broad interest in Deep Learning, Natural Language Processing and Language Grounding (Language+Vision).
+My mission is to contribute to building AI systems that are Robust, Safe and ideally as Data Efficient as humans<sup style="color:#b1040e;">1</sup>. My work in this domain involves Exploring various Inductive Biases for Neural Networks, Combining Neural and Symbolic Representations and Studying Out of Distribution Generalization of Large Scale Deep Neural Networks.  
+I have broad interest in Deep Learning, Natural Language Processing and Language Grounding (Language+Vision).
 
 Currently I work at [Microsoft Research](https://www.microsoft.com/en-us/research/) as a Senior Researcher, serve as an advisor for [Koidra](https://www.koidra.ai/) and as Associate Editor for IEEE Signal Processing Magazine [Newsletter](https://signalprocessingsociety.org/newsletter). I have had the priviledge to be a Senior member of [IEEE](https://www.ieee.org/), to serve as part of organizing committee of [ACL 2020](https://acl2020.org/) as one of the virtual infrastructure chairs, and to work as a mentor at [Microsoft AI School](https://www.microsoft.com/en-us/ai/ai-school) from 2017 to 2019 and [Microsoft AI Residency Program](https://www.microsoft.com/en-us/research/academic-program/microsoft-ai-residency-program/) from 2019 to 2020.
 
@@ -16,6 +17,8 @@ I have a PhD in Electrical and Computer Engineering from the [University of Brit
 
 For general inquiries please contact me at [hamidpalangi [at] ieee [dot] org](hamidpalangi@ieee.org), for Microsoft related inquiries please contact me at [hpalangi [at] microsoft [dot] com](hpalangi@microsoft.com).  
 For my references please refer to the [recommendations](https://www.linkedin.com/in/hamidpalangi) section of my Linkedin profile or send me an email.
+
+<sup style="color:#b1040e; font-size:0.7em;">1</sup> <span style="font-size:0.7em;">It has been found in previous studies of language that a child hears or produces about 8 million words in 15 months between the ages 9 to 24 months [[1]](https://www.pnas.org/content/112/41/12663) or around 3 million words per year in another study [[2]](https://www.amazon.ca/Meaningful-Differences-Everyday-Experience-American/dp/1557661979) (from [this](https://arxiv.org/pdf/2005.00955.pdf) opinion piece). Recent large scale deep neural networks will need significantly more data, e.g, GPT3 model consumes 499 billion words during pre-training [[3]](https://arxiv.org/pdf/2005.14165.pdf). </span> 
 
 
 News
