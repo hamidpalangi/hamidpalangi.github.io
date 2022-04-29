@@ -24,6 +24,9 @@
       {% if author.employer %}
         <li><a href="https://www.microsoft.com/en-us/research/"><i class="fab fa-fw fa-microsoft" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
+      {% if author.employer2 %}
+        <li><a href="https://www.washington.edu/"><i class="fas fa-university" style="color:#4b2e83"></i> {{ author.employer2 }}</li>
+      {% endif %}	  
       {% if author.location %}
         <li><a href=""><i class="fa fa-fw fa-map-marker-alt" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
