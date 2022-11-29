@@ -19,6 +19,7 @@ For my references please refer to the [recommendations](https://www.linkedin.com
 
 News
 ------
+**[2022](){: .btn--research}** NaturalAdversaries: Can Naturalistic Adversaries Be as Effective as Artificial Adversaries? To appear at [EMNLP 2022](https://2022.emnlp.org/): [Paper](https://arxiv.org/abs/2211.04364) [Code](https://github.com/skgabriel/NaturalAdversaries)  
 **[2022](){: .btn--research}** Robustness analysis for vision-language models will appear at [NeurIPS 2022](https://neurips.cc/virtual/2022/index.html): [Paper](https://arxiv.org/abs/2207.02159) [Website](https://sites.google.com/view/videolanguagerobustness/home?pli=1/)  
 **[2022](){: .btn--research}** How robust video action recognition models are against real world perturbations: [Paper](https://arxiv.org/abs/2207.01398) [Website](https://rose-ar.github.io/)  
 **[2022](){: .btn--research}** [(De)ToxiGen](https://www.microsoft.com/en-us/research/blog/detoxigen-leveraging-large-language-models-to-build-more-robust-hate-speech-detection-tools/): we are releasing a dataset (ToxiGen) covering 13 minority groups, a tool (ALICE) which is an adversarial decoding method to stress test and improve any given off the shelf hate speech detector, two hate speech detection checkpoints and the source codes for all of the above, please stop by if you are at [ACL 2022](https://www.2022.aclweb.org/): [Paper](https://arxiv.org/abs/2203.09509) [Code](https://github.com/microsoft/TOXIGEN)  
