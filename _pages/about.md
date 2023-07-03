@@ -18,7 +18,7 @@ For general inquiries please contact me at [hamidpalangi [at] ieee [dot] org](ha
 For my references please refer to the [recommendations](https://www.linkedin.com/in/hamidpalangi) section of my Linkedin profile or send me an email.
 
 News
-------------
+------
 **[2022](){: .btn--research}** NaturalAdversaries: Can Naturalistic Adversaries Be as Effective as Artificial Adversaries? To appear at [EMNLP 2022](https://2022.emnlp.org/): [Paper](https://arxiv.org/abs/2211.04364) [Code](https://github.com/skgabriel/NaturalAdversaries)  
 **[2022](){: .btn--research}** Robustness analysis for vision-language models will appear at [NeurIPS 2022](https://neurips.cc/virtual/2022/index.html): [Paper](https://arxiv.org/abs/2207.02159) [Website](https://sites.google.com/view/videolanguagerobustness/home?pli=1/)  
 **[2022](){: .btn--research}** How robust video action recognition models are against real world perturbations: [Paper](https://arxiv.org/abs/2207.01398) [Website](https://rose-ar.github.io/)  
