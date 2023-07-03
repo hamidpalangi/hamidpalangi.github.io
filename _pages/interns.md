@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Interns"
+title: "Interns and Students"
 permalink: /interns/
 author_profile: true
 ---
