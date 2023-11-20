@@ -14,9 +14,6 @@ main:
 
   - title: "10K"
     url: /10k/
-    
-  - title: "Honors/Awards"
-    url: /honors/
-    
+        
   - title: "Code/Dataset"
     url: /code/
