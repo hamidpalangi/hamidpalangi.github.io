@@ -5,12 +5,10 @@ permalink: /interns/
 author_profile: true
 ---
 
-**[Tejas Gokhale](https://www.tejasgokhale.com/)** &rarr; Assistant Professor at University of Maryland
+**[Erik Jones](https://people.eecs.berkeley.edu/~erjones/)**, University of California, Berkeley
 
 **[Tejas Gokhale](https://www.tejasgokhale.com/)** &#8680; Assistant Professor at University of Maryland
 
-**[Saadia Gabriel](https://saadia-gabriel.github.io/)** &rArr; Assistant Professor at UCLA
+**[Saadia Gabriel](https://saadia-gabriel.github.io/)** &#8680; Assistant Professor at UCLA
 
-**[Tom Hartvigsen](https://www.tomhartvigsen.com/)** ⇨ Assistant Professor at University of Virginia
-
-**[Tom Hartvigsen](https://www.tomhartvigsen.com/)** &#10144; Assistant Professor at University of Virginia
+**[Tom Hartvigsen](https://www.tomhartvigsen.com/)** &#8680; Assistant Professor at University of Virginia
