@@ -5,6 +5,8 @@ permalink: /interns/
 author_profile: true
 ---
 
-**[Tejas Gokhale](https://www.tejasgokhale.com/)** \faArrowCircleRight Assistant Professor at University of Maryland
+**[Tejas Gokhale](https://www.tejasgokhale.com/)** &rarr; Assistant Professor at University of Maryland
 
-**[Saadia Gabriel](https://saadia-gabriel.github.io/)** \faArrowCircleRight Assistant Professor at UCLA
+**[Saadia Gabriel](https://saadia-gabriel.github.io/)** &rarr; Assistant Professor at UCLA
+
+**[Tom Hartvigsen](https://www.tomhartvigsen.com/)** :arrow_right: Assistant Professor at University of Virginia
