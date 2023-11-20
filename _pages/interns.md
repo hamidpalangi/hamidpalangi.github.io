@@ -7,6 +7,8 @@ author_profile: true
 
 **[Tejas Gokhale](https://www.tejasgokhale.com/)** &rarr; Assistant Professor at University of Maryland
 
+**[Tejas Gokhale](https://www.tejasgokhale.com/)** &#8680; Assistant Professor at University of Maryland
+
 **[Saadia Gabriel](https://saadia-gabriel.github.io/)** &rArr; Assistant Professor at UCLA
 
 **[Tom Hartvigsen](https://www.tomhartvigsen.com/)** ⇨ Assistant Professor at University of Virginia
