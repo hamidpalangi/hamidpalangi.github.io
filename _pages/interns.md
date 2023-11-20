@@ -21,8 +21,6 @@ author_profile: true
 
 **[Luowei Zhou](https://luoweizhou.github.io/)** &#8680; Research Scientist at Google Deepmind
 
-**[Siddhesh Khandelwal](https://siddheshk.github.io/)**, University of British Columbia
-
 **[Mehrad Moradshahi](http://web.stanford.edu/~mehrad/)** &#8680; Moveworks
 
 **[Kezhen Chen](https://www.kezhenchen.net/)** &#8680; Research Scientist at Google X
@@ -31,12 +29,14 @@ author_profile: true
 
 **[Prithvijit Chattopadhyay](https://prithv1.xyz/)**, Georgia Tech.
 
+**[Yichen Huang](https://scholar.google.ca/citations?user=F8eblNsAAAAJ&hl=en)** &#8680; Postdoctoral Fellow at Harvard University
+
+**[Shawn Jain](https://darkmatter08.github.io/)** &#8680; Member of Technical Staff at OpenAI
+
 **[Ramy Hussein](https://scholar.google.ca/citations?user=lc3lgegAAAAJ&hl=en)** &#8680; ML Researcher at Stanford University
 
 **[Yongwei Wang](https://sg.linkedin.com/in/yongwei-wang-9827998b)** &#8680; Research Fellow at Nanyang Technological University
 
-**[Yichen Huang](https://scholar.google.ca/citations?user=F8eblNsAAAAJ&hl=en)** &#8680; Postdoctoral Fellow at Harvard University
+**[Siddhesh Khandelwal](https://siddheshk.github.io/)**, University of British Columbia
 
 **[Yuhang Song](https://scholar.google.com/citations?user=PaPfxpoAAAAJ&hl=en)**, University of Southern California (USC)
-
-**[Shawn Jain](https://darkmatter08.github.io/)** &#8680; Member of Technical Staff at OpenAI
