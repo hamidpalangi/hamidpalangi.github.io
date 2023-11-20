@@ -9,4 +9,4 @@ author_profile: true
 
 **[Saadia Gabriel](https://saadia-gabriel.github.io/)** &rarr; Assistant Professor at UCLA
 
-**[Tom Hartvigsen](https://www.tomhartvigsen.com/)** :arrow_right: Assistant Professor at University of Virginia
+**[Tom Hartvigsen](https://www.tomhartvigsen.com/)** &:arrow_right: Assistant Professor at University of Virginia
