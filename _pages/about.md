@@ -15,7 +15,7 @@ I work as Principal Researcher at [Microsoft Research](https://www.microsoft.com
 I have a Ph.D. in Electrical and Computer Engineering where I worked on [Sparse Decomposition and Compressive Sensing](https://arxiv.org/abs/1508.04924) and [Deep Sentence Representations for Web Search Engines and Information Retrieval](https://arxiv.org/abs/1502.06922) which received [IEEE Signal Processing Society Best Paper Award 2018](). My MSc and BSc were in Electrical Engineering.
 
 For general inquiries please contact me at [hamidpalangi [at] ieee [dot] org](hamidpalangi@ieee.org), for Microsoft related inquiries please contact me at [hpalangi [at] microsoft [dot] com](hpalangi@microsoft.com). For my references please refer to the [recommendations](https://www.linkedin.com/in/hamidpalangi) section of my Linkedin profile or send me an email.
-<hr style="border:2px gray">
+<hr style="border:1px solid gray">
 # *News:*
 
 **[2022](){: .btn--research}** NaturalAdversaries: Can Naturalistic Adversaries Be as Effective as Artificial Adversaries? To appear at [EMNLP 2022](https://2022.emnlp.org/): [Paper](https://arxiv.org/abs/2211.04364) [Code](https://github.com/skgabriel/NaturalAdversaries)  
