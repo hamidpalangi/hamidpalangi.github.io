@@ -16,6 +16,7 @@ I have a Ph.D. in Electrical and Computer Engineering where I worked on [Sparse 
 
 For general inquiries please contact me at [hamidpalangi [at] ieee [dot] org](hamidpalangi@ieee.org), for Microsoft related inquiries please contact me at [hpalangi [at] microsoft [dot] com](hpalangi@microsoft.com). For my references please refer to the [recommendations](https://www.linkedin.com/in/hamidpalangi) section of my Linkedin profile or send me an email.
 ***
+
 # *News:*
 
 **[2022](){: .btn--research}** NaturalAdversaries: Can Naturalistic Adversaries Be as Effective as Artificial Adversaries? To appear at [EMNLP 2022](https://2022.emnlp.org/): [Paper](https://arxiv.org/abs/2211.04364) [Code](https://github.com/skgabriel/NaturalAdversaries)  
