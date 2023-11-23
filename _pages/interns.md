@@ -5,9 +5,9 @@ permalink: /interns/
 author_profile: true
 ---
 
-**[Erik Jones](https://people.eecs.berkeley.edu/~erjones/)**, University of California, Berkeley
+- **[Erik Jones](https://people.eecs.berkeley.edu/~erjones/)**, University of California, Berkeley
 
-**[Hong-You Chen](https://sites.google.com/view/hongyouc/about-me)**, Ohio State University
+- **[Hong-You Chen](https://sites.google.com/view/hongyouc/about-me)**, Ohio State University
 
 **[Mert Yuksekgonul](https://mertyg.github.io/)**, Stanford University
 
