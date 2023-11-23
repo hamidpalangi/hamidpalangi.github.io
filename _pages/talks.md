@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 **[2023](){: .btn--research}** Invited talk at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) LLM Evaluation Workshop.  
-**[2023](){: .btn--research}** Keynote at [AACL 2023](https://sites.google.com/view/art-of-safety/schedule-info) The ART of Safety Workshop: *Mind the Gaps: Adversarial Testing in Generative AI, Challenges and Opportunities*.  
-**[2023](){: .btn--research}** Invited talk at [CVPR 2023](https://nice.lgresearch.ai/) New Frontiers for Zero-shot Image Captioning Workshop: *Lost in Translation: The Difficulty of Evaluating Image Captioning*. [Slides](https://www.hamidpalangi.com/files/Lost_In_Translation.pdf)  
+**[2023](){: .btn--research}** Keynote at [AACL 2023](https://sites.google.com/view/art-of-safety/schedule-info) The ART of Safety Workshop: ``*Mind the Gaps: Adversarial Testing in Generative AI, Challenges and Opportunities*''.  
+**[2023](){: .btn--research}** Invited talk at [CVPR 2023](https://nice.lgresearch.ai/) New Frontiers for Zero-shot Image Captioning Workshop: ``*Lost in Translation: The Difficulty of Evaluating Image Captioning*''. [Slides](https://www.hamidpalangi.com/files/Lost_In_Translation.pdf)  
 **[2022](){: .btn--research}** Invited lecture at the [University of Washington](https://www.washington.edu/) ECE department.  
 **[2022](){: .btn--research}** Tutorial at [AAAI 2022](https://sites.google.com/allenai.org/nsmlv-tutorial-aaai-22) on *Neuro-Symbolic Methods for Language and Vision*. [Slides](https://sites.google.com/allenai.org/nsmlv-tutorial-aaai-22)  
 **[2022](){: .btn--research}** Invited talk at [Université de Montreal](https://www.umontreal.ca/).  
