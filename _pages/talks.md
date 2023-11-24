@@ -20,3 +20,18 @@ author_profile: true
 <hr style="border:1px solid gray">
 
 # **Teaching Experience:**
+**[2013](){: .btn--research}** Engineering Electromagnetics, Undergraduate Course, The University of British Columbia  
+**[2013](){: .btn--research}** Circuit Analysis II, Undergraduate Course, The University of British Columbia  
+**[2012](){: .btn--research}** Introduction to Microcomputers, Undergraduate Course, The University of British Columbia  
+**[2012](){: .btn--research}** Circuit Analysis I, Undergraduate Course, The University of British Columbia  
+**[2011](){: .btn--research}** Computer Architecture, Undergraduate Course, Sharif University of Technology  
+**[2011](){: .btn--research}** Computer Architecture Lab, Undergraduate Course, Sharif University of Technology  
+**[2011](){: .btn--research}** Computer Architecture Lab, Undergraduate Course, Sharif University of Technology  
+**[2009](){: .btn--research}** Digital Video Processing, Graduate Course, Sharif University of Technology  
+**[2009](){: .btn--research}** Pulse and Digital Circuits, Undergraduate Course, Sharif University of Technology  
+**[2009](){: .btn--research}** Introduction to Electrical Engineering, Undergraduate Course, Sharif University of Technology  
+**[2007](){: .btn--research}** Linear Control Systems, Undergraduate Course, Shahid Rajaee University of Technology  
+**[2006](){: .btn--research}** Electromagnetics, Undergraduate Course, Shahid Rajaee University of Technology  
+**[2005](){: .btn--research}** Electronic Circuits II, Undergraduate Course, Shahid Rajaee University of Technology  
+**[2005](){: .btn--research}** Electronic Circuits I, Undergraduate Course, Shahid Rajaee University of Technology  
+**[2005](){: .btn--research}** Electromagnetics, Undergraduate Course, Shahid Rajaee University of Technology  
