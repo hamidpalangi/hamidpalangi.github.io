@@ -13,7 +13,7 @@ author_profile: true
 **[2022](){: .btn--research}** Invited talk at [Université de Montreal](https://www.umontreal.ca/).  
 **[2021](){: .btn--research}** Invited talk at <span style="color:#b1040e">Microsoft Azure</span> covering [ToxiGen](https://arxiv.org/abs/2203.09509) and [ALICE](https://github.com/microsoft/ToxiGen#generating-data-using-alice).  
 **[2020](){: .btn--research}** Invited talk at <span style="color:#b1040e">Microsoft Office</span> covering Vision Language Pretraining [VLP](https://arxiv.org/abs/1909.11059) and the role of [Visual Relations](https://arxiv.org/pdf/1909.09953.pdf).  
-**[2019](){: .btn--research}** Invited talk at [MSR AI Seminar](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/) series. [Video](https://www.youtube.com/watch?v=4wS02nCWXvw)  
+**[2019](){: .btn--research}** Invited talk at [MSR AI Seminar](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/) series in Redmond. [Video](https://www.youtube.com/watch?v=4wS02nCWXvw)  
 **[2018](){: .btn--research}** Invited lecture at the [University of British Columbia](https://www.ubc.ca/) ECE department.  
 **[2017](){: .btn--research}** Tutorial at [IEEE GlobalSIP 2017](https://www.2017.ieeeglobalsip.org/) on different Deep Learning computation frameworks (PyTorch, TensorFlow, MXNet, Chainer, ...). [Slides](https://www.hamidpalangi.com/files/GlobalSIP2017_DL_Tutorial.pdf)  
 
