@@ -77,3 +77,11 @@ Hamid Palangi, Paul Smolensky, Xiaodong He, Li Deng **[AAAI 2017]()** **[Paper](
 Hamid Palangi, Rabab Ward, Li Deng **[Signal Processing]()** **[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0165168416301578){: .btn--research}**  
 **[2017]() Deep Learning for Sequence Modelling: Applications in Natural Languages and Distributed Compressive Sensing**  
 Hamid Palangi **[University of British Columbia]()** **[Thesis](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0343522){: .btn--research}**  
+**[2016]() Reconstruction of Sparse Vectors in Compressive Sensing with Multiple Measurement Vectors using Bidirectional Long Short-Term Memory**  
+Hamid Palangi, Rabab Ward, Li Deng **[GlobalSIP 2016]()** **[Paper](https://ieeexplore.ieee.org/abstract/document/7905830){: .btn--research}**  
+**[2016]() Exploiting Correlations among Channels in Distributed Compressive Sensing with Convolutional Deep Stacking Networks**  
+Hamid Palangi, Rabab Ward, Li Deng **[ICASSP 2016]()** **[Paper](https://ieeexplore.ieee.org/abstract/document/7472166){: .btn--research}**  
+**[2016]() Distributed Compressive Sensing: A Deep Learning Approach**  
+Hamid Palangi, Rabab Ward, Li Deng **[IEEE Transactions on Signal Processing]()** **[Paper](https://arxiv.org/abs/1508.04924){: .btn--research}** **[Code](https://github.com/hamidpalangi/Distributed-Compressive-Sensing-A-Deep-Learning-Approach){: .btn--research}**  
+**[2015]() Deep Sentence Embedding using Long Short-Term Memory Networks: Analysis and Application to Information Retrieval**  
+Hamid Palangi, Li Deng, Yelong Shen, Jianfeng Gao, Xiaodong He, Jianshu Chen, Xinying Song, Rabab Ward **[IEEE/ACM Transactions on Audio, Speech, and Language Processing]()** **[Paper](https://arxiv.org/abs/1502.06922){: .btn--research}**  
