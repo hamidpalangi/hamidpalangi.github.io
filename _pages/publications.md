@@ -67,3 +67,7 @@ Mehrad Moradshahi, Hamid Palangi, Monica S. Lam, Paul Smolensky, Jianfeng Gao **
 Kuang-Huei Lee, Hamid Palangi, Xi Chen, Houdong Hu, Jianfeng Gao **[Paper](https://arxiv.org/abs/1909.09953){: .btn--research}**  
 **[2019]() Optimized Deep Neural Network Architecture for Robust Detection of Epileptic Seizures using EEG Signals**  
 Ramy Hussein, Hamid Palangi, Rabab K Ward, Z Jane Wang **[Clinical Neurophysiology]()** **[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1388245718313464){: .btn--research}**  
+**[2018]() RevHashNet: Perceptually de-hashing real-valued image hashes for similarity retrieval**  
+Yongwei Wang, Hamid Palangi, Z Jane Wang, Haoqian Wang **[Signal Processing: Image Communication]()** **[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0923596518305332){: .btn--research}**  
+**[2018]() Robust detection of epileptic seizures using deep neural networks**  
+Ramy Hussein, Hamid Palangi, Z Jane Wang, Rabab Ward **[ICASSP 2018]()** **[Paper](https://ieeexplore.ieee.org/abstract/document/8462029){: .btn--research}**  
