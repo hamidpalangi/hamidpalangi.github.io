@@ -85,3 +85,9 @@ Hamid Palangi, Rabab Ward, Li Deng **[ICASSP 2016]()** **[Paper](https://ieeexpl
 Hamid Palangi, Rabab Ward, Li Deng **[IEEE Transactions on Signal Processing]()** **[Paper](https://arxiv.org/abs/1508.04924){: .btn--research}** **[Code](https://github.com/hamidpalangi/Distributed-Compressive-Sensing-A-Deep-Learning-Approach){: .btn--research}**  
 **[2015]() Deep Sentence Embedding using Long Short-Term Memory Networks: Analysis and Application to Information Retrieval**  
 Hamid Palangi, Li Deng, Yelong Shen, Jianfeng Gao, Xiaodong He, Jianshu Chen, Xinying Song, Rabab Ward **[IEEE/ACM Transactions on Audio, Speech, and Language Processing]()** **[Paper](https://arxiv.org/abs/1502.06922){: .btn--research}**  
+**[2014]() Recurrent Deep-Stacking Networks for Sequence Classification**  
+Hamid Palangi, Li Deng, Rabab K Ward **[ChinaSIP 2014]()** **[Paper](https://ieeexplore.ieee.org/abstract/document/6889295){: .btn--research}**  
+**[2013]() Learning Input and Recurrent Weight Matrices in Echo State Networks**  
+Hamid Palangi, Li Deng, Rabab K Ward **[NIPS Deep Learning Workshop 2013]()** **[Paper](https://arxiv.org/abs/1311.2987){: .btn--research}**  
+**[2013]() Using Deep Stacking Network to Improve Structured Compressed Sensing with Multiple Measurement Vectors**  
+Hamid Palangi, Li Deng, Rabab K Ward **[ICASSP 2013]()** **[Paper](https://ieeexplore.ieee.org/abstract/document/6638276){: .btn--research}**  
