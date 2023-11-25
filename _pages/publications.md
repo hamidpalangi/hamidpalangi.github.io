@@ -91,3 +91,11 @@ Hamid Palangi, Li Deng, Rabab K Ward **[ChinaSIP 2014]()** **[Paper](https://iee
 Hamid Palangi, Li Deng, Rabab K Ward **[NIPS Deep Learning Workshop 2013]()** **[Paper](https://arxiv.org/abs/1311.2987){: .btn--research}**  
 **[2013]() Using Deep Stacking Network to Improve Structured Compressed Sensing with Multiple Measurement Vectors**  
 Hamid Palangi, Li Deng, Rabab K Ward **[ICASSP 2013]()** **[Paper](https://ieeexplore.ieee.org/abstract/document/6638276){: .btn--research}**  
+**[2010]() Mean-Square Performance Analysis of the Family of Selective Partial Update and Selective Regressor Affine Projection Algorithms**  
+Mohammad Shams Esfand Abadi, Hamid Palangi **[Signal Processing]()** **[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0165168409002813){: .btn--research}**  
+**[2009]() ECG Denoising and Compression by Sparse 2D Separable Transform with Overcomplete Mixed Dictionaries**  
+A Ghaffari, Hamid Palangi, Massoud Babaie-Zadeh, Christian Jutten **[MLSP 2009]()** **[Paper](https://ieeexplore.ieee.org/abstract/document/5306223){: .btn--research}**  
+**[2009]() Fast and Robust Multiframe Superresolution Using Inhibition Principle**  
+Hamid Palangi, Shohreh Kasaei **[ICDT 2009]()** **[Paper](https://ieeexplore.ieee.org/abstract/document/5205232){: .btn--research}**  
+**[2009]() Image Coding and Compression with Sparse 3D Discrete Cosine Transform**  
+Hamid Palangi, Aboozar Ghafari, Massoud Babaie-Zadeh, Christian Jutten **[ICA 2009]()** **[Paper](https://link.springer.com/chapter/10.1007/978-3-642-00599-2_67){: .btn--research}**  
