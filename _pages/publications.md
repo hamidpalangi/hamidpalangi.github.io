@@ -15,5 +15,7 @@ Ranjita Naik, Varun Chandrasekaran, Mert Yuksekgonul, Hamid Palangi, Besmira Nus
 Erik Jones, Hamid Palangi, Clarisse Simões, Varun Chandrasekaran, Subhabrata Mukherjee, Arindam Mitra, Ahmed Awadallah, Ece Kamar **[Paper](https://arxiv.org/abs/2310.06827){: .btn--research}**  
 **[2023]() Attention Satisfies: A Constraint-Satisfaction Lens on Factual Errors of Language Models**  
 Mert Yuksekgonul, Varun Chandrasekaran, Erik Jones, Suriya Gunasekar, Ranjita Naik, Hamid Palangi, Ece Kamar, Besmira Nushi **[Paper](https://arxiv.org/abs/2309.15098){: .btn--research}**  
+**[2023]() Aging with GRACE: Lifelong Model Editing with Discrete Key-Value Adaptors**  
+Thomas Hartvigsen, Swami Sankaranarayanan, Hamid Palangi, Yoon Kim, Marzyeh Ghassemi **[NeurIPS 2023]()** **[Paper](https://arxiv.org/abs/2211.11031){: .btn--research}** **[Code](https://github.com/thartvigsen/grace){: .btn--research}**  
 **[2023]() Evaluating Cognitive Maps and Planning in Large Language Models with CogEval**  
 Ida Momennejad, Hosein Hasanbeig, Felipe Vieira, Hiteshi Sharma, Robert Osazuwa Ness, Nebojsa Jojic, Hamid Palangi, Jonathan Larson **[NeurIPS 2023]()** **[Paper](https://arxiv.org/abs/2309.15129){: .btn--research}**  
