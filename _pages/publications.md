@@ -44,4 +44,12 @@ Saadia Gabriel, Hamid Palangi, Yejin Choi **[EMNLP 2022]()** **[Paper](https://a
 **[2022]() Structural Biases for Improving Transformers on Translation into Morphologically Rich Languages**  
 Paul Soulos, Sudha Rao, Caitlin Smith, Eric Rosen, Asli Celikyilmaz, R. Thomas McCoy, Yichen Jiang, Coleman Haley, Roland Fernandez, Hamid Palangi, Jianfeng Gao, Paul Smolensky **[4th Workshop on Technologies for MT of Low Resource Languages]()** **[Paper](https://arxiv.org/abs/2208.06061){: .btn--research}**  
 **[2022]() ToxiGen: A Large-Scale Machine-Generated Dataset for Adversarial and Implicit Hate Speech Detection**  
-Thomas Hartvigsen, Saadia Gabriel, Hamid Palangi, Maarten Sap, Dipankar Ray, Ece Kamar **[Paper](https://arxiv.org/abs/2203.09509){: .btn--research}** **[Code](https://github.com/microsoft/ToxiGen){: .btn--research}** **[Dataset](https://huggingface.co/datasets/skg/toxigen-data){: .btn--research}**  
+Thomas Hartvigsen, Saadia Gabriel, Hamid Palangi, Maarten Sap, Dipankar Ray, Ece Kamar **[ACL 2022]()** **[Paper](https://arxiv.org/abs/2203.09509){: .btn--research}** **[Code](https://github.com/microsoft/ToxiGen){: .btn--research}** **[Dataset](https://huggingface.co/datasets/skg/toxigen-data){: .btn--research}**  
+**[2021]() NICE: Neural Image Commenting with Empathy**  
+Kezhen Chen, Qiuyuan Huang, Daniel McDuff, Xiang Gao, Hamid Palangi, Jianfeng Wang, Kenneth Forbus, Jianfeng Gao **[EMNLP 2021]()** **[Paper](https://aclanthology.org/2021.findings-emnlp.380/){: .btn--research}** **[Dataset](https://nicedataset.github.io/){: .btn--research}**  
+**[2021]() Compositional Processing Emerges in Neural Networks Solving Math Problems**  
+Jacob Russin, Roland Fernandez, Hamid Palangi, Eric Rosen, Nebojsa Jojic, Paul Smolensky, Jianfeng Gao **[CogSci 2021]()** **[Paper](https://arxiv.org/abs/2105.08961){: .btn--research}**  
+**[2021]() Enriching Transformers with Structured Tensor-Product Representations for Abstractive Summarization**  
+Yichen Jiang, Asli Celikyilmaz, Paul Smolensky, Paul Soulos, Sudha Rao, Hamid Palangi, Roland Fernandez, Caitlin Smith, Mohit Bansal, Jianfeng Gao **[NAACL 2021]()** **[Paper](https://arxiv.org/abs/2106.01317){: .btn--research}** **[Code](https://github.com/jiangycTarheel-zz/TPT-Summ){: .btn--research}**  
+**[2020]() Neuro-Symbolic Visual Reasoning: Disentangling "Visual" from "Reasoning"**  
+Saeed Amizadeh, Hamid Palangi, Alex Polozov, Yichen Huang, Kazuhito Koishida **[ICML 2020]()** **[Paper](https://proceedings.mlr.press/v119/amizadeh20a.html){: .btn--research}** **[Code](https://github.com/microsoft/DFOL-VQA){: .btn--research}**  
