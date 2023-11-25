@@ -7,8 +7,6 @@ author_profile: true
 
 **[2023]() Orca 2: Teaching Small Language Models How to Reason**  
 Arindam Mitra, Luciano Del Corro, Shweti Mahajan, Andres Codas, Clarisse Simoes, Sahaj Agrawal, Xuxi Chen, Anastasia Razdaibiedina, Erik Jones, Kriti Aggarwal, Hamid Palangi, Guoqing Zheng, Corby Rosset, Hamed Khanpour, Ahmed Awadallah **[Paper](https://arxiv.org/abs/2311.11045){: .btn--research} [13B ckpt](https://huggingface.co/microsoft/Orca-2-13b){: .btn--research} [7B ckpt](https://huggingface.co/microsoft/Orca-2-7b){: .btn--research}**  
-**[2023]() A Framework for Automated Measurement of Responsible AI Harms in Generative AI Applications**  
-Ahmed Magooda, Alec Helyar, Kyle Jackson, David Sullivan, Chad Atalla, Emily Sheng, Dan Vann, Richard Edgar, Hamid Palangi, Roman Lutz, Hongliang Kong, Vincent Yun, Eslam Kamal, Federico Zarfati, Hanna Wallach, Sarah Bird, Mei Chen **[Paper](https://arxiv.org/abs/2310.17750){: .btn--research}**  
 **[2023]() Teaching Language Models to Hallucinate Less with Synthetic Tasks**  
 Erik Jones, Hamid Palangi, Clarisse Simões, Varun Chandrasekaran, Subhabrata Mukherjee, Arindam Mitra, Ahmed Awadallah, Ece Kamar **[Paper](https://arxiv.org/abs/2310.06827){: .btn--research}**  
 **[2023]() Attention Satisfies: A Constraint-Satisfaction Lens on Factual Errors of Language Models**  
@@ -21,6 +19,8 @@ Sébastien Bubeck, Varun Chandrasekaran, Ronen Eldan, Johannes Gehrke, Eric Horv
 Ida Momennejad, Hosein Hasanbeig, Felipe Vieira, Hiteshi Sharma, Robert Osazuwa Ness, Nebojsa Jojic, Hamid Palangi, Jonathan Larson **[NeurIPS 2023]()** **[Paper](https://arxiv.org/abs/2309.15129){: .btn--research}**  
 **[2023]() Orca: Progressive Learning from Complex Explanation Traces of GPT-4**  
 Subhabrata Mukherjee, Arindam Mitra, Ganesh Jawahar, Sahaj Agarwal, Hamid Palangi, Ahmed Awadallah **[Paper](https://arxiv.org/abs/2306.02707){: .btn--research}**  
+**[2023]() A Framework for Automated Measurement of Responsible AI Harms in Generative AI Applications**  
+Ahmed Magooda, Alec Helyar, Kyle Jackson, David Sullivan, Chad Atalla, Emily Sheng, Dan Vann, Richard Edgar, Hamid Palangi, Roman Lutz, Hongliang Kong, Vincent Yun, Eslam Kamal, Federico Zarfati, Hanna Wallach, Sarah Bird, Mei Chen **[Paper](https://arxiv.org/abs/2310.17750){: .btn--research}**  
 **[2023]() Gender-tuning: Empowering Fine-tuning for Debiasing Pre-trained Language Models**  
 Somayeh Ghanbarzadeh, Yan Huang, Hamid Palangi, Radames Cruz Moreno, Hamed Khanpour **[ACL 2023]()** **[Paper](https://arxiv.org/abs/2307.10522){: .btn--research}**  
 **[2023]() Diversity of Thought Improves Reasoning Abilities of Large Language Models**  
