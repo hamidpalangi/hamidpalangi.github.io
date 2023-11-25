@@ -60,4 +60,10 @@ Hassan Akbari, Hamid Palangi, Jianwei Yang, Sudha Rao, Asli Celikyilmaz, Roland 
 **[2020]() Novel Human-Object Interaction Detection via Adversarial Domain Generalization**  
 Yuhang Song, Wenbo Li, Lei Zhang, Jianwei Yang, Emre Kiciman, Hamid Palangi, Jianfeng Gao, C.-C. Jay Kuo, Pengchuan Zhang **[Paper](https://arxiv.org/abs/2005.11406){: .btn--research}**  
 **[2020]() Unified Vision-Language Pre-Training for Image Captioning and VQA**  
-Luowei Zhou, Hamid Palangi, Lei Zhang, Houdong Hu, Jason J. Corso, Jianfeng Gao **[Paper](https://arxiv.org/abs/1909.11059){: .btn--research}** **[Code](https://github.com/LuoweiZhou/VLP){: .btn--research}**  
+Luowei Zhou, Hamid Palangi, Lei Zhang, Houdong Hu, Jason J. Corso, Jianfeng Gao **[AAAI 2020]()** **[Paper](https://arxiv.org/abs/1909.11059){: .btn--research}** **[Code](https://github.com/LuoweiZhou/VLP){: .btn--research}**  
+**[2020]() HUBERT Untangles BERT to Improve Transfer across NLP Tasks**  
+Mehrad Moradshahi, Hamid Palangi, Monica S. Lam, Paul Smolensky, Jianfeng Gao **[Paper](https://arxiv.org/abs/1910.12647){: .btn--research}**  
+**[2019]() Learning Visual Relation Priors for Image-Text Matching and Image Captioning with Neural Scene Graph Generators**  
+Kuang-Huei Lee, Hamid Palangi, Xi Chen, Houdong Hu, Jianfeng Gao **[Paper](https://arxiv.org/abs/1909.09953){: .btn--research}**  
+**[2019]() Optimized Deep Neural Network Architecture for Robust Detection of Epileptic Seizures using EEG Signals**  
+Ramy Hussein, Hamid Palangi, Rabab K Ward, Z Jane Wang **[Clinical Neurophysiology]()** **[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1388245718313464){: .btn--research}**  
