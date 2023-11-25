@@ -35,3 +35,13 @@ Yu Yang, Besmira Nushi, Hamid Palangi, Baharan Mirzasoleiman **[ICML 2023]()** *
 Saghar Hosseini, Hamid Palangi, Ahmed Hassan Awadallah **[Paper](https://arxiv.org/abs/2301.09211){: .btn--research}**  
 **[2023]() A Large-Scale Robustness Analysis of Video Action Recognition Models**  
 Madeline Chantry Schiappa, Naman Biyani, Prudvi Kamtam, Shruti Vyas, Hamid Palangi, Vibhav Vineet, Yogesh S Rawat **[CVPR 2023]()** **[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Schiappa_A_Large-Scale_Robustness_Analysis_of_Video_Action_Recognition_Models_CVPR_2023_paper.html){: .btn--research}**  
+**[2022]() Benchmarking Spatial Relationships in Text-to-Image Generation**  
+Tejas Gokhale, Hamid Palangi, Besmira Nushi, Vibhav Vineet, Eric Horvitz, Ece Kamar, Chitta Baral, Yezhou Yang **[Paper](https://arxiv.org/abs/2212.10015){: .btn--research}** **[Code](https://github.com/microsoft/VISOR){: .btn--research}** **[Dataset](https://huggingface.co/datasets/tgokhale/sr2d_visor){: .btn--research}**  
+**[2022]() Robustness Analysis of Video-Language Models Against Visual and Language Perturbations**  
+Madeline Schiappa, Shruti Vyas, Hamid Palangi, Yogesh Rawat, Vibhav Vineet **[NeurIPS 2022]()** **[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/de6ff07cbd222c10d694c2b2f732aceb-Abstract-Datasets_and_Benchmarks.html){: .btn--research}**  
+**[2022]() NaturalAdversaries: Can Naturalistic Adversaries Be as Effective as Artificial Adversaries?**  
+Saadia Gabriel, Hamid Palangi, Yejin Choi **[EMNLP 2022]()** **[Paper](https://arxiv.org/abs/2211.04364){: .btn--research}** **[Code](https://github.com/skgabriel/NaturalAdversaries){: .btn--research}**  
+**[2022]() Structural Biases for Improving Transformers on Translation into Morphologically Rich Languages**  
+Paul Soulos, Sudha Rao, Caitlin Smith, Eric Rosen, Asli Celikyilmaz, R. Thomas McCoy, Yichen Jiang, Coleman Haley, Roland Fernandez, Hamid Palangi, Jianfeng Gao, Paul Smolensky **[4th Workshop on Technologies for MT of Low Resource Languages]()** **[Paper](https://arxiv.org/abs/2208.06061){: .btn--research}**  
+**[2022]() ToxiGen: A Large-Scale Machine-Generated Dataset for Adversarial and Implicit Hate Speech Detection**  
+Thomas Hartvigsen, Saadia Gabriel, Hamid Palangi, Maarten Sap, Dipankar Ray, Ece Kamar **[Paper](https://arxiv.org/abs/2203.09509){: .btn--research}** **[Code](https://github.com/microsoft/ToxiGen){: .btn--research}** **[Dataset](https://huggingface.co/datasets/skg/toxigen-data){: .btn--research}**  
