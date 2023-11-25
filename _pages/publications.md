@@ -53,3 +53,11 @@ Jacob Russin, Roland Fernandez, Hamid Palangi, Eric Rosen, Nebojsa Jojic, Paul S
 Yichen Jiang, Asli Celikyilmaz, Paul Smolensky, Paul Soulos, Sudha Rao, Hamid Palangi, Roland Fernandez, Caitlin Smith, Mohit Bansal, Jianfeng Gao **[NAACL 2021]()** **[Paper](https://arxiv.org/abs/2106.01317){: .btn--research}** **[Code](https://github.com/jiangycTarheel-zz/TPT-Summ){: .btn--research}**  
 **[2020]() Neuro-Symbolic Visual Reasoning: Disentangling "Visual" from "Reasoning"**  
 Saeed Amizadeh, Hamid Palangi, Alex Polozov, Yichen Huang, Kazuhito Koishida **[ICML 2020]()** **[Paper](https://proceedings.mlr.press/v119/amizadeh20a.html){: .btn--research}** **[Code](https://github.com/microsoft/DFOL-VQA){: .btn--research}**  
+**[2020]() Mapping Natural-language Problems to Formal-language Solutions Using Structured Neural Representations**  
+Kezhen Chen, Qiuyuan Huang, Hamid Palangi, Paul Smolensky, Kenneth D. Forbus, Jianfeng Gao **[ICML 2020]()** **[Paper](https://arxiv.org/abs/1910.02339){: .btn--research}** **[Code](https://github.com/ckzbullbullet/TP-N2F){: .btn--research}**  
+**[2020]() Neuro-Symbolic Representations for Video Captioning: A Case for Leveraging Inductive Biases for Vision and Language**  
+Hassan Akbari, Hamid Palangi, Jianwei Yang, Sudha Rao, Asli Celikyilmaz, Roland Fernandez, Paul Smolensky, Jianfeng Gao, Shih-Fu Chang **[Paper](https://arxiv.org/abs/2011.09530){: .btn--research}** **[Code](https://github.com/hassanhub/R3Transformer){: .btn--research}**  
+**[2020]() Novel Human-Object Interaction Detection via Adversarial Domain Generalization**  
+Yuhang Song, Wenbo Li, Lei Zhang, Jianwei Yang, Emre Kiciman, Hamid Palangi, Jianfeng Gao, C.-C. Jay Kuo, Pengchuan Zhang **[Paper](https://arxiv.org/abs/2005.11406){: .btn--research}**  
+**[2020]() Unified Vision-Language Pre-Training for Image Captioning and VQA**  
+Luowei Zhou, Hamid Palangi, Lei Zhang, Houdong Hu, Jason J. Corso, Jianfeng Gao **[Paper](https://arxiv.org/abs/1909.11059){: .btn--research}** **[Code](https://github.com/LuoweiZhou/VLP){: .btn--research}**  
