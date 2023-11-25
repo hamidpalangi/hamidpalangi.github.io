@@ -71,3 +71,9 @@ Ramy Hussein, Hamid Palangi, Rabab K Ward, Z Jane Wang **[Clinical Neurophysiolo
 Yongwei Wang, Hamid Palangi, Z Jane Wang, Haoqian Wang **[Signal Processing: Image Communication]()** **[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0923596518305332){: .btn--research}**  
 **[2018]() Robust detection of epileptic seizures using deep neural networks**  
 Ramy Hussein, Hamid Palangi, Z Jane Wang, Rabab Ward **[ICASSP 2018]()** **[Paper](https://ieeexplore.ieee.org/abstract/document/8462029){: .btn--research}**  
+**[2017]() Question-Answering with Grammatically-Interpretable Representations**  
+Hamid Palangi, Paul Smolensky, Xiaodong He, Li Deng **[AAAI 2017]()** **[Paper](https://arxiv.org/abs/1705.08432){: .btn--research}** **[Code](https://github.com/hamidpalangi/Grammatically_Interpretable_QA){: .btn--research}**  
+**[2017]() Convolutional deep stacking networks for distributed compressive sensing**  
+Hamid Palangi, Rabab Ward, Li Deng **[Signal Processing]()** **[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0165168416301578){: .btn--research}**  
+**[2017]() Deep Learning for Sequence Modelling: Applications in Natural Languages and Distributed Compressive Sensing**  
+Hamid Palangi **[University of British Columbia]()** **[Thesis](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0343522){: .btn--research}**  
