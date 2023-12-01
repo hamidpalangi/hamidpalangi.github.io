@@ -32,7 +32,7 @@ Somayeh Ghanbarzadeh, Hamid Palangi, Yan Huang, Radames Cruz Moreno, Hamed Khanp
 **[2023]() Mitigating Spurious Correlations in Multi-modal Models during Fine-tuning**  
 Yu Yang, Besmira Nushi, Hamid Palangi, Baharan Mirzasoleiman **[ICML 2023]()** **[Paper](https://arxiv.org/abs/2304.03916){: .btn--research}**  
 **[2023]() An Empirical Study of Metrics to Measure Representational Harms in Pre-Trained Language Models**  
-Saghar Hosseini, Hamid Palangi, Ahmed Hassan Awadallah **[ACL 2023]()** **[Paper](https://arxiv.org/abs/2301.09211){: .btn--research}**  
+Saghar Hosseini, Hamid Palangi, Ahmed Hassan Awadallah **[ACL 2023]()** **[Paper](https://arxiv.org/abs/2301.09211){: .btn--research}** **[Code & Dataset](https://github.com/microsoft/SafeNLP){: .btn--research}**  
 **[2023]() A Large-Scale Robustness Analysis of Video Action Recognition Models**  
 Madeline Chantry Schiappa, Naman Biyani, Prudvi Kamtam, Shruti Vyas, Hamid Palangi, Vibhav Vineet, Yogesh S Rawat **[CVPR 2023]()** **[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Schiappa_A_Large-Scale_Robustness_Analysis_of_Video_Action_Recognition_Models_CVPR_2023_paper.html){: .btn--research}**  
 **[2022]() Benchmarking Spatial Relationships in Text-to-Image Generation**  
