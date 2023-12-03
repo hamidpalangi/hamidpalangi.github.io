@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "(Co)Hosted Interns"
+title: "(Co)Hosted Interns/Students"
 permalink: /interns/
 author_profile: true
 ---
