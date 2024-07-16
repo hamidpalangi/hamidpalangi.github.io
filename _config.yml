@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Hamid Palangi"
   avatar           : "hamid_palangi_2021_b2.jpg"
-  bio              : "Principal Researcher"
-  location         : "Redmond, WA"
-  employer         : "Microsoft Research"
+  bio              : ""
+  location         : "Kirkland, WA"
+  employer         : "Google"
   employer2         : "University of Washington"
   pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?user=B1lAghgAAAAJ&hl=en"
