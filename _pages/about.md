@@ -14,7 +14,7 @@ I have a Ph.D. in Electrical and Computer Engineering where I worked on [Sparse 
 
 For general inquiries please contact me at [hamidpalangi [at] ieee [dot] org](hamidpalangi@ieee.org), for Google related inquiries please contact me at [hamidpalangi [at] google [dot] com](hamidpalangi@google.com).
 
-&#8680; **I am looking for full time research scientists and research interns with relevant experience in large foundation models, please reach out if you are interested.**
+&#8680; **I am looking for full time research scientists and research interns with experience in large foundation models, please reach out if you are interested.**
 
 <hr style="border:1px solid gray">
 
